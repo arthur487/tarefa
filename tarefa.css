@@ -1,0 +1,15 @@
+#imagen {
+    height: 300px;
+}
+
+.container {
+    margin: 40px;
+    padding: 8px;
+    height: 39px;
+    border: 30px;
+}
+
+.container h1 {
+    position: fixed;
+    
+}
