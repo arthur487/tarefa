@@ -24,4 +24,33 @@
 .container p {
     width: 500px;
 }
+.container2 {
+    margin: 40px;
+    padding: 8px;
+    height: 39px;
+    border: 30px;
+}
+
+#imagen2 {
+    position: absolute;
+    left: 60%;
+    bottom: 63%;
+}
+#imagen2 {
+    width: 500px;
+    height: 300px;
+}
+.container2 h1 {
+    position: absolute;
+    left: 60%;
+    bottom: 58%;
+}
+.container2 p {
+    position: absolute;
+    left: 60%;
+    bottom: 53%;
+}
+.container2 p {
+    width: 500px;
+}
 
