@@ -8,11 +8,9 @@
 #imagen:hover{
     background-color: blue;
 }
-
 .total {
     background-color: grey;
 }
-
 .container {
     margin: 40px;
     padding: 8px;
@@ -84,6 +82,7 @@
 .header {
     height: 40px;
     padding-inline: 50px;
+    padding-bottom: 550px;
     font-size: xx-large;
 }
 .header {
@@ -96,21 +95,21 @@
 }
 #time {
     text-decoration: underline;
-    color: lightgray;
+    color: grey;
 }
 #time2 {
     position: absolute;
     left: 60%;
     bottom: 51%;
-    color: lightgray;
+    color:grey;
     text-decoration: underline;
 }
 
 #imagen3 {
     position: absolute;
-    left: 60.8%;
-    bottom: 0%;
-    width: 500px;
+    left: 35%;
+    bottom: -7%;
+    width: 600px;
     padding: 15px;
     background-color: black;
 }
@@ -119,20 +118,20 @@
 }
 .container3 h1 {
     position: absolute;
-    left: 61%;
-    bottom: -7%;
+    left: 35%;
+    bottom: -15%;
 }
 
 .container3 p {
     position: absolute;
-    left:61%;
-    bottom: -14%;
+    left:35%;
+    bottom: -22%;
     width: 500px;
 }
 #header2 {
     position: absolute;
-    left: 44%;
-    bottom: 36%;
+    left: 45%;
+    bottom: 33%;
     font-size: xx-large;
 }
 #header2 {
@@ -140,3 +139,17 @@
     background-color: white;
 }
 
+.header h1 {
+    position: absolute;
+    left: 38%;
+    bottom: 85%;
+    background-color: black;
+    color: white;
+}
+#time3 {
+    position: absolute;
+    left: 35%;
+    bottom: -10%;
+    color: lightgray;
+    text-decoration: underline;
+}
