@@ -82,9 +82,8 @@
     bottom: 53%;
 }
 .header {
-    margin: 40px;
-    width: 400px;
     height: 40px;
+    padding-inline: 50px;
     font-size: xx-large;
 }
 .header {
@@ -106,3 +105,38 @@
     color: lightgray;
     text-decoration: underline;
 }
+
+#imagen3 {
+    position: absolute;
+    left: 60.8%;
+    bottom: 0%;
+    width: 500px;
+    padding: 15px;
+    background-color: black;
+}
+#imagen3:hover {
+    background-color: blue;
+}
+.container3 h1 {
+    position: absolute;
+    left: 61%;
+    bottom: -7%;
+}
+
+.container3 p {
+    position: absolute;
+    left:61%;
+    bottom: -14%;
+    width: 500px;
+}
+#header2 {
+    position: absolute;
+    left: 44%;
+    bottom: 36%;
+    font-size: xx-large;
+}
+#header2 {
+    padding-inline: 50px;
+    background-color: white;
+}
+
